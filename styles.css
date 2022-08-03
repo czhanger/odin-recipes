@@ -1,0 +1,30 @@
+
+body{
+    font-family: Open Sans, Helvetica, 'Times New Roman', Times, serif ;
+}
+
+a{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.img{
+    height: auto;
+}
+
+.vodkapasta{
+    width:500px;
+}
+
+.scampi{
+    width:500px;
+}
+
+.chickenthigh{
+    width:500px;
+}
+
+.homelink{
+    color: white;
+    background-color: rgb(47, 159, 22);
+}
